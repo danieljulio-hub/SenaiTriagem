@@ -78,8 +78,11 @@ graph TD
 
 ### Passo a Passo
 
-1. git clone https://github.com/danieljulio-hub/SenaiTriagem.git
-cd SenaiTriagem
+1. **Clonar o Repositório:**
+
+   ```bash
+   git clone https://github.com/danieljulio-hub/SenaiTriagem.git
+   cd SenaiTriagem
    ```
 
 2. **Instalar Dependências PHP e JS:**
@@ -157,10 +160,12 @@ O projeto está hospedado no Railway utilizando uma estrutura isolada de 3 servi
 ## 👤 Autor
 
 **Daniel Julio Nascimento Filho**
-Estudante de Biomedicina (FAIP Marília) | IA Generativa, Laravel e automação de processos
-LinkedIn: linkedin.com/in/daniel-julio-nascimento-filho
-GitHub: github.com/danieljulio-hub
 
+- Estudante de Biomedicina (FAIP Marília) | IA Generativa, Laravel e automação de processos
+- LinkedIn: [linkedin.com/in/daniel-julio-nascimento-filho](https://linkedin.com/in/daniel-julio-nascimento-filho)
+- GitHub: [github.com/danieljulio-hub](https://github.com/danieljulio-hub)
+
+  ---
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins acadêmicos e institucionais na dinâmica do curso **Técnico em Administração do SENAI**.

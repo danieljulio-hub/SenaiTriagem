@@ -15,7 +15,7 @@
 
 O **Triagem SENAI** é uma solução web *full-stack* desenvolvida especialmente para **otimizar e simular a dinâmica de recrutamento e seleção do curso Técnico em Administração do SENAI**.
 
-O sistema combina **testes de conhecimentos técnicos** com análise preditiva de currículos via **Inteligência Artificial (Google Gemini)**, permitindo que a equipe de RH analise candidatos com agilidade, imparcialidade e riqueza de dados.
+O sistema combina **testes de conhecimentos técnicos** com análise preditiva de currículos via **Inteligência Artificial (Google Gemini)**, permitindo que a equipe de RH analise candidatos com mais agilidade e apoio de dados.
 
 ---
 

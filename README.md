@@ -165,7 +165,7 @@ O projeto está hospedado no Railway utilizando uma estrutura isolada de 3 servi
 - LinkedIn: [linkedin.com/in/daniel-julio-nascimento-filho](https://linkedin.com/in/daniel-julio-nascimento-filho)
 - GitHub: [github.com/danieljulio-hub](https://github.com/danieljulio-hub)
 
-  ---
+  
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins acadêmicos e institucionais na dinâmica do curso **Técnico em Administração do SENAI**.

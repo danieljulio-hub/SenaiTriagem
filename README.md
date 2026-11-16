@@ -141,7 +141,7 @@ graph TD
 
 ## 🚀 Arquitetura de Deploy em Produção (Railway)
 
-O projeto está hospedado no Railway utilizando uma estrutura isolada de 3 serviços para garantir alta disponibilidade e zero travamentos:
+O projeto foi publicado no Railway com uma estrutura isolada de 3 serviços, separando web, banco de dados e processamento da IA (a hospedagem de demonstração está desativada no momento):
 
 * **Serviço 1 — MySQL Database:** Banco relacional em nuvem.
 * **Serviço 2 — Web Application (`TriagemSenai`):** Servidor HTTP que recebe os acessos do público.
